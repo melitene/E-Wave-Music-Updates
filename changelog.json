@@ -1,5 +1,14 @@
 {
-  "releases": [
+    "releases": [
+    {
+      "versionCode": 76,
+      "versionName": "2.7.3",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        "APK indirme işlemi başarısız olursa kullanıcıya Tekrar Dene seçeneği sunulur.",
+        "Yeniden deneme, yarım kalan dosyayı temizleyerek indirmeyi baştan başlatır."
+      ]
+    },
     {
       "versionCode": 75,
       "versionName": "2.7.2",
