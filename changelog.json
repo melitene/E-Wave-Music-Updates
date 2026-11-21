@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "versionCode": 78,
+      "versionName": "2.8.1",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        {
+          "heading": "İyileştirmeler",
+          "items": [
+            "Daha önce görüntülenen şarkı kapakları cihazda saklanır ve internet bağlantısı olmadığında da gösterilebilir.",
+            "Güncelleme sonrasında uygulamanın açılış davranışı iyileştirildi."
+          ]
+        }
+      ]
+    },
+    {
       "versionCode": 77,
       "versionName": "2.8.0",
       "date": "21 Kasım 2026",
