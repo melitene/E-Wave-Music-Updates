@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "versionCode": 87,
+      "versionName": "2.10.0",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        {
+          "heading": "Yedekleme ve Geri Yükleme",
+          "items": [
+            "Tüm dinleyici profilleri ve kişisel müzik verileri tek bir yedek dosyasına aktarılabilir.",
+            "Favoriler, dinleme geçmişi, dinleme sayıları ve kişisel çalma listeleri yedekten geri yüklenebilir.",
+            "Geri yükleme öncesinde yedek dosyasının yapısı doğrulanır ve mevcut verilerin üzerine yazılacağı açıkça bildirilir."
+          ]
+        }
+      ]
+    },
+    {
       "versionCode": 86,
       "versionName": "2.9.0",
       "date": "21 Kasım 2026",
@@ -16,7 +31,6 @@
         }
       ]
     },
-    
     {
       "versionCode": 85,
       "versionName": "2.8.8",
