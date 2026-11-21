@@ -1,6 +1,23 @@
 {
   "releases": [
     {
+      "versionCode": 86,
+      "versionName": "2.9.0",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        {
+          "heading": "YouTube Klipleri",
+          "items": [
+            "YouTube oynatıcı yükleme hataları için otomatik hata algılama eklendi.",
+            "Geçici oynatma sorunlarında yeniden deneme seçeneği eklendi.",
+            "Silinmiş, gizli veya uygulama içinde oynatmaya kapatılmış videolar için daha açıklayıcı hata mesajları gösterilir.",
+            "Klipler YouTube üzerinde açılabilir."
+          ]
+        }
+      ]
+    },
+    
+    {
       "versionCode": 85,
       "versionName": "2.8.8",
       "date": "21 Kasım 2026",
