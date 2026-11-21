@@ -1,6 +1,20 @@
 {
   "releases": [
     {
+      "versionCode": 81,
+      "versionName": "2.8.4",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        {
+          "heading": "İyileştirmeler",
+          "items": [
+            "Arşiv güncelleme bildirimi uygulama açılışında yalnızca bir kez ve kısa süre gösterilir.",
+            "Arşiv, uygulama açılışındaki ilk kontrolden sonra yalnızca yenile düğmesine basıldığında güncellenir."
+          ]
+        }
+      ]
+    },
+    {
       "versionCode": 80,
       "versionName": "2.8.3",
       "date": "21 Kasım 2026",
