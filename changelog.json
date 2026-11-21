@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "versionCode": 89,
+      "versionName": "2.11.1",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        {
+          "heading": "Şarkı Künyesi",
+          "items": [
+            "YouTube klibinin yayın tarihi ve süresi yönetim panelinde ilk ihtiyaçta otomatik alınır.",
+            "Alınan bilgiler şarkının veritabanı kaydında saklanır; sonraki uygulama açılışlarında YouTube isteği gönderilmez.",
+            "Yayın tarihi künye ekranında gün.ay.yıl biçiminde gösterilir."
+          ]
+        }
+      ]
+    },
+    {
       "versionCode": 88,
       "versionName": "2.11.0",
       "date": "21 Kasım 2026",
