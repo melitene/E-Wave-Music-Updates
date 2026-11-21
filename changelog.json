@@ -1,12 +1,37 @@
 {
-    "releases": [
+  "releases": [
+    {
+      "versionCode": 77,
+      "versionName": "2.8.0",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        {
+          "heading": "Yeni Özellikler",
+          "items": [
+            "İnternet kesintilerinde yayın kataloğu, çalma listeleri ve YouTube klip eşleştirmeleri için son başarılı kayıtlı kopya kullanılabilir.",
+            "Uygulama açılırken son başarılı içerikler bağlantı beklenmeden gösterilir."
+          ]
+        },
+        {
+          "heading": "İyileştirmeler",
+          "items": [
+            "İnternet bağlantısı yeniden sağlandığında içerikler otomatik olarak güncellenir.",
+            "Kayıtlı veriler kullanıldığında bu durum uygulama içinde açıkça gösterilir."
+          ]
+        }
+      ]
+    },
     {
       "versionCode": 76,
       "versionName": "2.7.3",
       "date": "21 Kasım 2026",
       "highlights": [
-        "APK indirme işlemi başarısız olursa kullanıcıya Tekrar Dene seçeneği sunulur.",
-        "Yeniden deneme, yarım kalan dosyayı temizleyerek indirmeyi baştan başlatır."
+        {
+          "heading": "İyileştirmeler",
+          "items": [
+            "Güncelleme indirme deneyimi iyileştirildi."
+          ]
+        }
       ]
     },
     {
