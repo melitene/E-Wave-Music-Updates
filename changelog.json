@@ -9,8 +9,9 @@
           "heading": "Şarkı Künyesi",
           "items": [
             "Şarkı kapaklarına künye bilgisi düğmesi eklendi.",
-            "Yayın tarihi, şarkı süresi, söz yazarı, besteci ve tam şarkı sözleri görüntülenebilir.",
-            "Yönetim panelinden şarkı künyesi bilgileri düzenlenebilir."
+            "Yayın tarihi, şarkı süresi, şarkı türü, söz yazarı, besteci ve tam şarkı sözleri görüntülenebilir.",
+            "Yönetim panelinden şarkı künyesi bilgileri ve yeni şarkı türleri düzenlenebilir.",
+            "Kaydedilen türler gelecekteki gelişmiş arama filtreleri için altyapı oluşturur."
           ]
         }
       ]
