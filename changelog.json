@@ -1,6 +1,21 @@
 {
   "releases": [
     {
+      "versionCode": 88,
+      "versionName": "2.11.0",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        {
+          "heading": "Şarkı Künyesi",
+          "items": [
+            "Şarkı kapaklarına künye bilgisi düğmesi eklendi.",
+            "Yayın tarihi, şarkı süresi, söz yazarı, besteci ve tam şarkı sözleri görüntülenebilir.",
+            "Yönetim panelinden şarkı künyesi bilgileri düzenlenebilir."
+          ]
+        }
+      ]
+    },
+    {
       "versionCode": 87,
       "versionName": "2.10.0",
       "date": "21 Kasım 2026",
