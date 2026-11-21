@@ -1,6 +1,24 @@
 {
   "releases": [
     {
+      "versionCode": 75,
+      "versionName": "2.7.2",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        "APK güncellemesi indirilirken ilerleme çubuğu ve yüzde gösterilir.",
+        "İndirme sırasında aktarılan veri miktarı görüntülenir."
+      ]
+    },
+    {
+      "versionCode": 74,
+      "versionName": "2.7.1",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        "İlk dokunuşta APK kurulum ekranının açılması için güncelleme başlatma akışı güçlendirildi.",
+        "İndirilen APK'nın E-Wave Music'e ait ve yüklü sürümden yeni olduğu doğrulanır."
+      ]
+    },
+    {
       "versionCode": 73,
       "versionName": "2.7.0",
       "date": "21 Kasım 2026",
