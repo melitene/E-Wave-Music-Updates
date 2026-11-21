@@ -1,6 +1,19 @@
 {
   "releases": [
     {
+      "versionCode": 84,
+      "versionName": "2.8.7",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        {
+          "heading": "Hata Düzeltmeleri",
+          "items": [
+            "Çeşitli hata düzeltmeleri ve kullanım iyileştirmeleri."
+          ]
+        }
+      ]
+    },
+    {
       "versionCode": 83,
       "versionName": "2.8.6",
       "date": "21 Kasım 2026",
