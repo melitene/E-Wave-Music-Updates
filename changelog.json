@@ -1,6 +1,19 @@
 {
   "releases": [
     {
+      "versionCode": 80,
+      "versionName": "2.8.3",
+      "date": "21 Kasım 2026",
+      "highlights": [
+        {
+          "heading": "Düzeltmeler",
+          "items": [
+            "Kurulum ekranındaki Aç düğmesinden sonra uygulamanın ön plana gelmesi için başlatma davranışı düzeltildi."
+          ]
+        }
+      ]
+    },
+    {
       "versionCode": 79,
       "versionName": "2.8.2",
       "date": "21 Kasım 2026",
@@ -53,7 +66,14 @@
       "versionCode": 76,
       "versionName": "2.7.3",
       "date": "21 Kasım 2026",
-      "highlights": [{"heading":"İyileştirmeler","items":["Güncelleme indirme deneyimi iyileştirildi."]}]
+      "highlights": [
+        {
+          "heading": "İyileştirmeler",
+          "items": [
+            "Güncelleme indirme deneyimi iyileştirildi."
+          ]
+        }
+      ]
     },
     {
       "versionCode": 75,
@@ -87,19 +107,25 @@
       "versionCode": 72,
       "versionName": "2.6.6",
       "date": "21 Kasım 2026",
-      "highlights": ["Resmî YouTube klip oynatıcısı dikey ve yatay ekranda tam ekran görüntüye göre düzenlendi."]
+      "highlights": [
+        "Resmî YouTube klip oynatıcısı dikey ve yatay ekranda tam ekran görüntüye göre düzenlendi."
+      ]
     },
     {
       "versionCode": 71,
       "versionName": "2.6.5",
       "date": "21 Kasım 2026",
-      "highlights": ["YouTube klip kayıtlarının Supabase üzerinden alınmasını engelleyen istek parametresi kaldırıldı."]
+      "highlights": [
+        "YouTube klip kayıtlarının Supabase üzerinden alınmasını engelleyen istek parametresi kaldırıldı."
+      ]
     },
     {
       "versionCode": 70,
       "versionName": "2.6.4",
       "date": "21 Kasım 2026",
-      "highlights": ["YouTube klip verisi alınamadığında ve eşleşme bulunamadığında açıklayıcı tanılama mesajları eklendi."]
+      "highlights": [
+        "YouTube klip verisi alınamadığında ve eşleşme bulunamadığında açıklayıcı tanılama mesajları eklendi."
+      ]
     },
     {
       "versionCode": 69,
@@ -114,19 +140,25 @@
       "versionCode": 68,
       "versionName": "2.6.2",
       "date": "21 Kasım 2026",
-      "highlights": ["Resmî YouTube klipleri şarkı bağlantısı veya başlığıyla eşleştirecek geliştirme eklendi."]
+      "highlights": [
+        "Resmî YouTube klipleri şarkı bağlantısı veya başlığıyla eşleştirecek geliştirme eklendi."
+      ]
     },
     {
       "versionCode": 67,
       "versionName": "2.6.1",
       "date": "21 Kasım 2026",
-      "highlights": ["Şarkı kartlarına resmî klip düğmesi ve uygulama içi klip oynatıcısı eklendi."]
+      "highlights": [
+        "Şarkı kartlarına resmî klip düğmesi ve uygulama içi klip oynatıcısı eklendi."
+      ]
     },
     {
       "versionCode": 66,
       "versionName": "2.6.0",
       "date": "21 Kasım 2026",
-      "highlights": ["Şarkılara özel YouTube klip eşleştirme altyapısı ve yönetim paneli desteği eklendi."]
+      "highlights": [
+        "Şarkılara özel YouTube klip eşleştirme altyapısı ve yönetim paneli desteği eklendi."
+      ]
     }
   ]
 }
