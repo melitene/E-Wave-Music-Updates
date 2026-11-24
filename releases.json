@@ -1,10 +1,18 @@
 {
   "channel": "https://music.youtube.com/",
   "artist": "Emrah Gürbüz",
-  "updatedAt": "2026-11-21T21:19:07.033518+00:00",
-  "count": 41,
-  "releaseCount": 41,
+  "updatedAt": "2026-11-23T22:51:36.231723+00:00",
+  "count": 42,
+  "releaseCount": 42,
   "items": [
+    {
+      "title": "Tane Tane",
+      "date": "2026",
+      "image": "https://yt3.googleusercontent.com/x-x99YUdIkU0cu4K5wxIbse5xawEyYyTqAKdVGFwSu7kmu1dZL-48Ce6-tkwL54cu2fA8E9muQL8CncU=w544-h544-l90-rj",
+      "url": "https://music.youtube.com/watch?v=Wn1w6jJIlNQ",
+      "release": "Tane Tane",
+      "type": "Single"
+    },
     {
       "title": "Sensiz Dünya Bir Kafes",
       "date": "2026",
