@@ -1,6 +1,8 @@
+
 {
     "apkUrl": "https://github.com/melitene/E-Wave-Music-Updates/releases/latest/download/E-Wave-Music.apk",
-    "versionCode": 90,
-    "versionName": "2.12.0",
-    "notes": "Şarkı sözlerinde bir dize seçerek E-Wave Music tasarımlı görsel kartı Instagram Hikâyesi, WhatsApp Durum ve diğer uygulamalarda paylaşabilirsin."
+    "versionCode": 92,
+    "versionName": "2.14.0",
+    "sha256": "dc4ac88f5c3751a2ecad482f8db0677606625a639dacf3dbdf1d1d2136caaa7b",
+    "notes": "Yorum arşivi ve kalıcı yorum silme, yorum yazma ve yorumları kapatma kontrolü, ana sayfada yeni şarkılar düzeni ve düzenleme onay durumu göstergesi düzeltmesi."
 }
