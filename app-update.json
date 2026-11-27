@@ -1,8 +1,7 @@
-
 {
-    "apkUrl": "https://github.com/melitene/E-Wave-Music-Updates/releases/latest/download/E-Wave-Music.apk",
-    "versionCode": 92,
-    "versionName": "2.14.0",
-    "sha256": "dc4ac88f5c3751a2ecad482f8db0677606625a639dacf3dbdf1d1d2136caaa7b",
-    "notes": "Yorum arşivi ve kalıcı yorum silme, yorum yazma ve yorumları kapatma kontrolü, ana sayfada yeni şarkılar düzeni ve düzenleme onay durumu göstergesi düzeltmesi."
+  "apkUrl": "https://github.com/melitene/E-Wave-Music-Updates/releases/latest/download/E-Wave-Music.apk",
+  "versionCode": 99,
+  "versionName": "2.14.07",
+  "sha256": "84fe7cd2724a69512a0cc9e4a8f26b8b7efc052606f742cb3de8f5ca7b4fc5cb",
+  "notes": "Karaoke modu: altyapı ile kayıt, kayıtları dinleme ve silme, kayıt dosyalarını şarkı adıyla kaydetme. Altyapı ses seviyesi iyileştirildi. Şarkı arşivi güncelleme kaynağı düzenlendi."
 }
